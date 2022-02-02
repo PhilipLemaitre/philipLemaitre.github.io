@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Philip, Launches Site"
-date: 29-01-2022
+date: 2022-01-29
 ---
 
 Best IT popculture series.
@@ -12,5 +12,3 @@ Best IT popculture series.
    4. <a href="https://www.imdb.com/title/tt2543312/">Halt and catch fire</a></p>  
    5. <a href=""> </a></p>  
 
-
-Best IT popcast.
